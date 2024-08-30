@@ -1,5 +1,7 @@
 # BlacklistVl
 
+__Preview : https://www.youtube.com/watch?v=0m9qJJusafA__
+
 EN : 
 
 This script is free and comes from Nauxyy (https://github.com/Nauxyyy)
